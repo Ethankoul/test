@@ -1,5 +1,5 @@
 local env
-non local env
+non local env THIS IS SPARTA
 
 456
 789.
